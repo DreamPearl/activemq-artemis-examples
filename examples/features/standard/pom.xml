@@ -52,6 +52,7 @@ under the License.
             <module>consumer-rate-limit</module>
             <module>context</module>
             <module>core-bridge</module>
+            <module>core-bridge-expiry</module>
             <module>database</module>
             <module>dead-letter</module>
             <module>delayed-redelivery</module>
@@ -128,6 +129,7 @@ under the License.
             <module>consumer-rate-limit</module>
             <module>context</module>
             <module>core-bridge</module>
+            <module>core-bridge-expiry</module>
             <module>database</module>
             <module>dead-letter</module>
             <module>delayed-redelivery</module>
